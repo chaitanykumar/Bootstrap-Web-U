@@ -1,20 +1,37 @@
 .navbar{
-    background-color: black;
-   
+    background-color:  #000;
 }
 
 .navbar .navbar-brand{
     font-size: 1.4rem;
     font-weight: 700;
+    padding-top: 1rem;
+    padding-bottom: 1rem;
+    padding-left: 3rem;
+    margin-right: 0rem;
+
 }
 
 #navbarSupportedContent > ul > li:nth-child(n) > a{
-    color: white;
+    color: #fff;
     font-size: 1rem;
     padding: 0 0.8rem;
 }
 
 #navbarSupportedContent > ul > li:nth-child(n) > a:hover { 
-    color: green;
+    color: green ;
 
+}
+
+#navbarSupportedContent > button{
+    background-color:green ;;
+    color: yellow;
+    font-weight: 600;
+    padding: 0.4rem 1.4rem ;
+    border-radius: 30px;
+}
+
+.btn-success{ 
+    border: 3px solid white !important;
+    margin-right: 40px;
 }
