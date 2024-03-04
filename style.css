@@ -92,15 +92,13 @@ video.embded-responsive{
   h1{
     color:gold;
   }
-
-  p{
-    color: bisque;
-    font-size: 20px;
-    padding-bottom: 1rem;
-  }
-  
-    
-
+.new-inno{
+    color: #e1ad01;
+}
+.bgimg{
+    background-image: url("./14960493_5532919.jpg");
+    background-size: cover;
+}
   
   
 
