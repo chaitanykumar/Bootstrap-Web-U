@@ -99,6 +99,26 @@ video.embded-responsive{
     background-image: url("./14960493_5532919.jpg");
     background-size: cover;
 }
-  
-  
+
+.form-control{
+    color: black !important;
+    border: 1px solid black !important;
+}
+.form-control:focus{
+    box-shadow: 1px 2px 3px cornflowerblue !important;
+}
+  .invalid-feedback{
+    display: none !important;
+  }
+  .form-control.is-invalid{
+    background-image: none !important;
+  }
+
+  .form-control.is-valid{
+ background-image: none !important;
+  }
+
+  .form-check-label{
+    color: black !important;
+  }
 
