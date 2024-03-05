@@ -26,10 +26,10 @@
 
 #navbarSupportedContent > ul > li:nth-child(n) > a:hover { 
 
-    background-color: green ;
-    color: yellow;
-    border:1px solid red;
-    border-radius: 10px;
+    background-color:green; 
+    color:aqua;
+    border:1px solid white;
+    border-radius: 20px;
 
 }
 
