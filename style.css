@@ -1,3 +1,7 @@
+html, body {
+  max-width: 100%;
+  overflow-x: hidden;
+}
 .navbar{
     background-color:  #000;
     padding: 1rem 8rem;
